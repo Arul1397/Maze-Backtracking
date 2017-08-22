@@ -69,7 +69,7 @@ void Maze(int maze[N][M], int q, int r) {
 }
 
 void main() {
-
+//TEST CASES
     /*int maze[N][M] = {
             {1, 1, 1, 1, 1, 1, 1},
             {1, 1, 1, 1, 1, 1, 0},
